@@ -1,7 +1,7 @@
 body > div {
   margin: 10px 0;
 }
-.box1 {
+.header {
   background-color: green;
   display: flex;
   align-items: center;
@@ -10,7 +10,7 @@ body > div {
   font-size: 30px;
   color: white;
 }
-.box2 {
+.description {
   background-color: red;
   display: flex;
   padding: 20px;
@@ -26,7 +26,7 @@ body > div {
 h2 {
   margin-top: 0;
 }
-.box3 {
+.links {
   background-color: gray;
   display: flex;
   align-items: center;
@@ -34,7 +34,7 @@ h2 {
   padding: 60px 0;
   font-size: 20px;
 }
-.box4 {
+.footer {
   padding: 60px;
   background-color: purple;
   display: flex;
